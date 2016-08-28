@@ -1,0 +1,453 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<bookstore>
+	<book ID="1">
+		<ISBN-10>1593275900</ISBN-10>
+		<ISBN-13>9781593275907</ISBN-13>
+		<Title>Black Hat Python</Title>
+		<Author>Justin Setz</Author>
+		<Price>23.35</Price>
+		<Year>2014</Year>
+		<Category>Computer</Category>
+	</book>
+	<book ID="2">
+		<ISBN-10>1101878126</ISBN-10>
+		<ISBN-13>9781101878125</ISBN-13>
+		<Title>Fodor's Pacific Northwest: with Oregon, Washington &amp; Vancouver</Title>
+		<Author>Tim Jarrell</Author>
+		<Price>23.35</Price>
+		<Year>2015</Year>
+		<Category>Travel</Category>
+	</book>
+	<book ID="3">
+		<ISBN-10>1101879653</ISBN-10>
+		<ISBN-13>9781101879658</ISBN-13>
+		<Title>Fodor's Colorado (Travel Guide)</Title>
+		<Author>Tim Jarrell</Author>
+		<Price>13.89</Price>
+		<Year>2016</Year>
+		<Category>Travel</Category>
+	</book>
+	<book ID="4">
+		<ISBN-10>1447200187</ISBN-10>
+		<ISBN-13>9781447200185</ISBN-13>
+		<Title>Into Thin Air</Title>
+		<Author>Jon Krakauer</Author>
+		<Price>6.29</Price>
+		<Year>2011</Year>
+		<Category>Travel</Category>
+	</book>
+	<book ID="5">
+		<ISBN-10>0718077415</ISBN-10>
+		<ISBN-13>9780718077419</ISBN-13>
+		<Title>Greater Than Gold: From Olympic Heartbreak to Ultimate Redemption</Title>
+		<Author>David Boudia</Author>
+		<Price>18.35</Price>
+		<Year>2016</Year>
+		<Category>Sport</Category>
+	</book>
+	<book ID="6">
+		<ISBN-10>1499118090</ISBN-10>
+		<ISBN-13>9781499118094</ISBN-13>
+		<Title>Stephen Curry: The Inspiring Story of One of Basketball's Sharpest Shooters</Title>
+		<Author>Clayton Geoffreys</Author>
+		<Price>10.69</Price>
+		<Year>2014</Year>
+		<Category>Sport</Category>
+	</book>
+	<book ID="7">
+		<ISBN-10>1401263437</ISBN-10>
+		<ISBN-13>9781401263430</ISBN-13>
+		<Title>Suicide Squad: The Silver Age Omnibus Vol. 1</Title>
+		<Author>Robert Kanigher</Author>
+		<Price>24.99</Price>
+		<Year>2016</Year>
+		<Category>Comic</Category>
+	</book>
+	<book ID="8">
+		<ISBN-10>0785199772</ISBN-10>
+		<ISBN-13>9780785199779</ISBN-13>
+		<Title>Star Wars: Darth Vader Vol. 3: The Shu-Torun War</Title>
+		<Author>Kieron Gillen</Author>
+		<Price>11.25</Price>
+		<Year>2015</Year>
+		<Category>Comic</Category>
+	</book>
+	<book ID="9">
+		<ISBN-10>1119035660</ISBN-10>
+		<ISBN-13>9781119035664</ISBN-13>
+		<Title>Architectural Graphics 6th Edition</Title>
+		<Author>FRANCIS D.K. CHING</Author>
+		<Price>33.00</Price>
+		<Year>2015</Year>
+		<Category>Arts</Category>
+	</book>
+	<book ID="10">
+		<ISBN-10>1118745086</ISBN-10>
+		<ISBN-13>9781118745083</ISBN-13>
+		<Title>Architecture: Form, Space, and Order 4th Edition</Title>
+		<Author>FRANCIS D.K. CHING</Author>
+		<Price>39.24</Price>
+		<Year>2014</Year>
+		<Category>Arts</Category>
+	</book>
+	<book ID="11">
+		<ISBN-10>1250022134</ISBN-10>
+		<ISBN-13>9781250022134</ISBN-13>
+		<Title>A Great Reckoning: A Novel (Chief Inspector Gamache Novel)</Title>
+		<Author>Louise Penny</Author>
+		<Price>28.99</Price>
+		<Year>2016</Year>
+		<Category>Mystery</Category>
+	</book>
+	<book ID="12">
+		<ISBN-10>1616149981</ISBN-10>
+		<ISBN-13>9781616149987</ISBN-13>
+		<Title>The Life We Bury</Title>
+		<Author>Allen Eskens</Author>
+		<Price>15.95</Price>
+		<Year>2014</Year>
+		<Category>Mystery</Category>
+	</book>
+	<book ID="13">
+		<ISBN-10>1419720899</ISBN-10>
+		<ISBN-13>9781419720895</ISBN-13>
+		<Title>Beaches</Title>
+		<Author>Gray Malin</Author>
+		<Price>40.00</Price>
+		<Year>2016</Year>
+		<Category>Travel</Category>
+	</book>
+	<book ID="14">
+		<ISBN-10>1250085250</ISBN-10>
+		<ISBN-13>9781250085252</ISBN-13>
+		<Title>Humans of New York : Stories</Title>
+		<Author>Brandon Stanton</Author>
+		<Price>18.88</Price>
+		<Year>2015</Year>
+		<Category>Travel</Category>
+	</book>
+	<book ID="15">
+		<ISBN-10>1770496149</ISBN-10>
+		<ISBN-13>9781250038821</ISBN-13>
+		<Title>Humans of New York</Title>
+		<Author>Brandon Stanton</Author>
+		<Price>16.17</Price>
+		<Year>2013</Year>
+		<Category>Travel</Category>
+	</book>
+	<book ID="16">
+		<ISBN-10>0986155420</ISBN-10>
+		<ISBN-13>9780986155420</ISBN-13>
+		<Title>50 Things You Can Do With Google Classroom</Title>
+		<Author>Lisa Highfill and Kelly Hilton</Author>
+		<Price>21.72</Price>
+		<Year>2015</Year>
+		<Category>Computer</Category>
+	</book>
+	<book ID="17">
+		<ISBN-10>1596672528</ISBN-10>
+		<ISBN-13>9781596672529</ISBN-13>
+		<Title>Data Analysis for Continuous School Improvement 3rd Edition</Title>
+		<Author>Victoria Bernhardt</Author>
+		<Price>47.45</Price>
+		<Year>2013</Year>
+		<Category>Computer</Category>
+	</book>
+	<book ID="18">
+		<ISBN-10>1476798850</ISBN-10>
+		<ISBN-13>9781476798851</ISBN-13>
+		<Title>Liars: How Progressives Exploit Our Fears for Power and Control</Title>
+		<Author>Glenn Beck</Author>
+		<Price>16.36</Price>
+		<Year>2016</Year>
+		<Category>Law</Category>
+	</book>
+	<book ID="19">
+		<ISBN-10>0316017930</ISBN-10>
+		<ISBN-13>9780316017930</ISBN-13>
+		<Title>Outliers: The Story of Success</Title>
+		<Author>Malcolm Gladwell</Author>
+		<Price>10.19</Price>
+		<Year>2011</Year>
+		<Category>Law</Category>
+	</book>
+	<book ID="20">
+		<ISBN-10>0812984960</ISBN-10>
+		<ISBN-13>9780812984965</ISBN-13>
+		<Title>Just Mercy: A Story of Justice and Redemption</Title>
+		<Author>MBryan Stevenson</Author>
+		<Price>10.87</Price>
+		<Year>2015</Year>
+		<Category>Law</Category>
+	</book>
+	<book ID="21">
+		<ISBN-10>0674545192</ISBN-10>
+		<ISBN-13>9780674545199</ISBN-13>
+		<Title>Somme: Into the Breach</Title>
+		<Author>Hugh Sebag-Montefiore</Author>
+		<Price>12.74</Price>
+		<Year>2016</Year>
+		<Category>History</Category>
+	</book>
+	<book ID="22">
+		<ISBN-10>0761181873</ISBN-10>
+		<ISBN-13>9780761181873</ISBN-13>
+		<Title>Dinner Solved!: 100 Ingenious Recipes That Make the Whole Family Happy, Including You!</Title>
+		<Author>Katie Workman</Author>
+		<Price>11.96</Price>
+		<Year>2015</Year>
+		<Category>Cook</Category>
+	</book>
+	<book ID="23">
+		<ISBN-10>1607747065</ISBN-10>
+		<ISBN-13>9781607747062</ISBN-13>
+		<Title>How to Get Dressed: A Costume Designer's Secrets for Making Your Clothes Look, Fit, and Feel Amazing</Title>
+		<Author>Alison Freer</Author>
+		<Price>11.49</Price>
+		<Year>2015</Year>
+		<Category>Fashion</Category>
+	</book>
+	<book ID="24">
+		<ISBN-10>1452128235</ISBN-10>
+		<ISBN-13>9781452128238</ISBN-13>
+		<Title>Every Person in New York</Title>
+		<Author>Jason Polan</Author>
+		<Price>16.45</Price>
+		<Year>2015</Year>
+		<Category>Arts</Category>
+	</book>
+	<book ID="25">
+		<ISBN-10>1477816194</ISBN-10>
+		<ISBN-13>9781477816196</ISBN-13>
+		<Title>The House Takes a Vacation</Title>
+		<Author>Jacqueline Davies</Author>
+		<Price>5.99</Price>
+		<Year>2013</Year>
+		<Category>Children</Category>
+	</book>
+	<book ID="26">
+		<ISBN-10>0761452435</ISBN-10>
+		<ISBN-13>9780761452430</ISBN-13>
+		<Title>The Little Squeegy Bug</Title>
+		<Author>Bill Martin Jr. pairs up with Michael Sampson</Author>
+		<Price>5.99</Price>
+		<Year>2015</Year>
+		<Category>Children</Category>
+	</book>
+	<book ID="27">
+		<ISBN-10>1477810404</ISBN-10>
+		<ISBN-13>9781477810408</ISBN-13>
+		<Title>Pond Walk</Title>
+		<Author>Nancy Elizabeth Wallace</Author>
+		<Price>5.99</Price>
+		<Year>2015</Year>
+		<Category>Children</Category>
+	</book>
+	<book ID="28">
+		<ISBN-10>1101907452</ISBN-10>
+		<ISBN-13>9781101907450</ISBN-13>
+		<Title>Inspiralize Everything: An Apples-to-Zucchini Encyclopedia of Spiralizing</Title>
+		<Author>Ali Maffucci</Author>
+		<Price>12.56</Price>
+		<Year>2016</Year>
+		<Category>Cook</Category>
+	</book>
+	<book ID="29">
+		<ISBN-10>1943451281</ISBN-10>
+		<ISBN-13>9781943451289</ISBN-13>
+		<Title>Little Bento: 32 Irresistible Bento Box Lunches for Kids</Title>
+		<Author>Michele Olivier</Author>
+		<Price>7.68</Price>
+		<Year>2016</Year>
+		<Category>Cook</Category>
+	</book>
+	<book ID="30">
+		<ISBN-10>1503936236</ISBN-10>
+		<ISBN-13>9781503936232</ISBN-13>
+		<Title>In the Barren Ground</Title>
+		<Author>Loreth Anne White</Author>
+		<Price>9.98</Price>
+		<Year>2016</Year>
+		<Category>Mystery</Category>
+	</book>
+	<book ID="31">
+		<ISBN-10>1464102171</ISBN-10>
+		<ISBN-13>9781464102172</ISBN-13>
+		<Title>Psychology - 10th edition</Title>
+		<Author>David G. Myers</Author>
+		<Price>60.6</Price>
+		<Year>2013</Year>
+		<Category>Psychology</Category>
+	</book>
+	<book ID="32">
+		<ISBN-10>0323086780</ISBN-10>
+		<ISBN-13>9780323086783</ISBN-13>
+		<Title>Medical-Surgical Nursing, Single Volume - With Access - 9th edition</Title>
+		<Author>Sharon L. Lewis</Author>
+		<Price>164</Price>
+		<Year>2014</Year>
+		<Category>Pharmacy</Category>
+	</book>
+	<book ID="33">
+		<ISBN-10>0312679483</ISBN-10>
+		<ISBN-13>9780312679484</ISBN-13>
+		<Title>Technical Communication - 10th edition</Title>
+		<Author>Mike Markel</Author>
+		<Price>123.5</Price>
+		<Year>2012</Year>
+		<Category>Communication</Category>
+	</book>
+	<book ID="34">
+		<ISBN-10>0205254314</ISBN-10>
+		<ISBN-13>9780205254316</ISBN-13>
+		<Title>Psychology - 11th edition</Title>
+		<Author>Carole Wade, Carol Tavris and Maryanne Garry</Author>
+		<Price>230.75</Price>
+		<Year>2014</Year>
+		<Category>Psychology</Category>
+	</book>
+	<book ID="35">
+		<ISBN-10>1457660962</ISBN-10>
+		<ISBN-13>9781457660962</ISBN-13>
+		<Title>Food Matters - 14 edition</Title>
+		<Author>Holly Bauer</Author>
+		<Price>30.75</Price>
+		<Year>2014</Year>
+		<Category>Food</Category>
+	</book>
+	<book ID="36">
+		<ISBN-10>0078462924</ISBN-10>
+		<ISBN-13>9780078462924</ISBN-13>
+		<Title>Food for Today - 8th edition</Title>
+		<Author>Alice Orphanos Kopan</Author>
+		<Price>81.25</Price>
+		<Year>2004</Year>
+		<Category>Food</Category>
+	</book>
+	<book ID="37">
+		<ISBN-10>0307474410</ISBN-10>
+		<ISBN-13>9780307474414</ISBN-13>
+		<Title>Home Cooking - 10 edition</Title>
+		<Author>Laurie Colwin</Author>
+		<Price>15.95</Price>
+		<Year>2010</Year>
+		<Category>Cook</Category>
+	</book>
+	<book ID="38">
+		<ISBN-10>1933615982</ISBN-10>
+		<ISBN-13>9781933615981</ISBN-13>
+		<Title>Science of Good Cooking - 12 edition</Title>
+		<Author>America's Test Kitchen Editors</Author>
+		<Price>40</Price>
+		<Year>2012</Year>
+		<Category>Cook</Category>
+	</book>
+	<book ID="39">
+		<ISBN-10>0133829170</ISBN-10>
+		<ISBN-13>9780133829174</ISBN-13>
+		<Title>On Cooking :Textbook of Culinary Fundamentals Update - With Access -5th edition</Title>
+		<Author>Sarah R. Labensky</Author>
+		<Price>170.75</Price>
+		<Year>2015</Year>
+		<Category>Cook</Category>
+	</book>
+	<book ID="40">
+		<ISBN-10>0133594149</ISBN-10>
+		<ISBN-13>9780133594140</ISBN-13>
+		<Title>Computer Networking - With Access - 7th edition</Title>
+		<Author>Kurose</Author>
+		<Price>171.75</Price>
+		<Year>2016</Year>
+		<Category>Computer</Category>
+	</book>
+	<book ID="41">
+		<ISBN-10>0123884365</ISBN-10>
+		<ISBN-13>9780123884367</ISBN-13>
+		<Title>Computers as Components - 3rd edition</Title>
+		<Author>Marilyn Wolf</Author>
+		<Price>84.95</Price>
+		<Year>2012</Year>
+		<Category>Computer</Category>
+	</book>
+	<book ID="42">
+		<ISBN-10>0078025150</ISBN-10>
+		<ISBN-13>9780078025150</ISBN-13>
+		<Title>Music in Theory and Practice, Volume 1 - 9th edition</Title>
+		<Author>Bruce Benward</Author>
+		<Price>161.75</Price>
+		<Year>2015</Year>
+		<Category>Music</Category>
+	</book>
+	<book ID="43">
+		<ISBN-10>1305509552</ISBN-10>
+		<ISBN-13>9781305509559</ISBN-13>
+		<Title>Business Law and the Regulation of Business - 12th edition</Title>
+		<Author>Richard A. Mann and Barry S. Roberts</Author>
+		<Price>414</Price>
+		<Year>2016</Year>
+		<Category>Business</Category>
+	</book>
+	<book ID="44">
+		<ISBN-10>0393937674</ISBN-10>
+		<ISBN-13>9780393937671</ISBN-13>
+		<Title>Families as They Really Are - 2nd edition</Title>
+		<Author>Barbara J. Risman</Author>
+		<Price>57.5</Price>
+		<Year>2015</Year>
+		<Category>Family</Category>
+	</book>
+	<book ID="45">
+		<ISBN-10>0073526568</ISBN-10>
+		<ISBN-13>9780073526560</ISBN-13>
+		<Title>Music : Appreciation - 9th edition</Title>
+		<Author>Roger Kamien</Author>
+		<Price>173.5</Price>
+		<Year>2008</Year>
+		<Category>Music</Category>
+	</book>
+	<book ID="46">
+		<ISBN-10>1305503104</ISBN-10>
+		<ISBN-13>9781305503106</ISBN-13>
+		<Title>Marriage and Family Experience (Cloth) - 13th edition</Title>
+		<Author>Strong</Author>
+		<Price>264</Price>
+		<Year>2016</Year>
+		<Category>Family</Category>
+	</book>
+	<book ID="47">
+		<ISBN-10>0791475786</ISBN-10>
+		<ISBN-13>9780791475782</ISBN-13>
+		<Title>Imagined Families, Lived Families - 08 edition</Title>
+		<Author>Akiko Hashimoto</Author>
+		<Price>31.95</Price>
+		<Year>2008</Year>
+		<Category>Family</Category>
+	</book>
+	<book ID="48">
+		<ISBN-10>1450469817</ISBN-10>
+		<ISBN-13>9781450469814</ISBN-13>
+		<Title>Foundations of Sport and Exercise Psychology - 6th edition</Title>
+		<Author>Robert Weinberg</Author>
+		<Price>112</Price>
+		<Year>2015</Year>
+		<Category>Sport</Category>
+	</book>
+	<book ID="49">
+		<ISBN-10>0071382100</ISBN-10>
+		<ISBN-13>9780071382106</ISBN-13>
+		<Title>Coaching Basketball - rev edition</Title>
+		<Author>Jerry Krause</Author>
+		<Price>35</Price>
+		<Year>2002</Year>
+		<Category>Sport</Category>
+	</book>
+	<book ID="50">
+		<ISBN-10>0736049100</ISBN-10>
+		<ISBN-13>9780736049108</ISBN-13>
+		<Title>Basketball Fundamentals - 04 edition</Title>
+		<Author>Jon Oliver</Author>
+		<Price>16.95</Price>
+		<Year>2004</Year>
+		<Category>Sport</Category>
+	</book>
+</bookstore>
